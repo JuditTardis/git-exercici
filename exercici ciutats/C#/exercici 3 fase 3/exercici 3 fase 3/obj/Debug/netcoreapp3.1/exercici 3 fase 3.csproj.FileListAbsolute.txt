@@ -1,0 +1,10 @@
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.exe
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.deps.json
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.runtimeconfig.json
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.runtimeconfig.dev.json
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.dll
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\bin\Debug\netcoreapp3.1\exercici 3 fase 3.pdb
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\obj\Debug\netcoreapp3.1\exercici 3 fase 3.AssemblyInfoInputs.cache
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\obj\Debug\netcoreapp3.1\exercici 3 fase 3.AssemblyInfo.cs
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\obj\Debug\netcoreapp3.1\exercici 3 fase 3.dll
+C:\Users\Judit\Documents\git-exercici\exercici ciutats\C#\exercici 3 fase 3\exercici 3 fase 3\obj\Debug\netcoreapp3.1\exercici 3 fase 3.pdb

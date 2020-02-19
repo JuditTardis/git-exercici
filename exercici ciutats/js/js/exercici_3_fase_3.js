@@ -1,0 +1,16 @@
+var ciutat1 = prompt("Escriu el nom de la primera ciutat");
+var ciutat2 = prompt("Escriu el nom de la segona ciutat");
+var ciutat3 = prompt("Escriu el nom de la tercera ciutat");
+var ciutat4 = prompt("Escriu el nom de la quarta ciutat");
+var ciutat5 = prompt("Escriu el nom de la cinquena ciutat");
+var ciutat6 = prompt("Escriu el nom de la sisena ciutat");
+var MCiutat1 = ciutat1.replace(/a/gi, "4");
+var MCiutat2 = ciutat2.replace(/a/gi, "4");
+var MCiutat3 = ciutat3.replace(/a/gi, "4");
+var MCiutat4 = ciutat4.replace(/a/gi, "4");
+var MCiutat5 = ciutat5.replace(/a/gi,"4");
+var MCiutat6 = ciutat6.replace(/a/gi, "4");
+var arrayCiutats = [];
+arrayCiutats.push(MCiutat1,MCiutat2,MCiutat3,MCiutat4,MCiutat5,MCiutat6);
+arrayCiutats.sort();
+document.getElementById("resultat").innerHTML = arrayCiutats;
