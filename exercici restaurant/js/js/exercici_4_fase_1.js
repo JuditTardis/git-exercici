@@ -1,0 +1,10 @@
+var billet5 = 5;
+var billet10 = 10;
+var billet20 = 20;
+var billet50 = 50;
+var billet100 = 100;
+var billet200 = 200;
+var billet500 = 500;
+var preuTotal;
+var Menu = [5];
+var Preus = [5];

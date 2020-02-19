@@ -1,0 +1,11 @@
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\obj\Debug\netcoreapp3.1\exercici 4 fase 2.csprojAssemblyReference.cache
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\obj\Debug\netcoreapp3.1\exercici 4 fase 2.AssemblyInfoInputs.cache
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\obj\Debug\netcoreapp3.1\exercici 4 fase 2.AssemblyInfo.cs
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.exe
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.deps.json
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.runtimeconfig.json
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.runtimeconfig.dev.json
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.dll
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\bin\Debug\netcoreapp3.1\exercici 4 fase 2.pdb
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\obj\Debug\netcoreapp3.1\exercici 4 fase 2.dll
+C:\Users\Judit\Documents\git-exercici\exercici restaurant\C#\exercici 4 fase 2\exercici 4 fase 2\obj\Debug\netcoreapp3.1\exercici 4 fase 2.pdb
