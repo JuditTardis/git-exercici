@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "practica troncal parte 1/1.0.0": {
+        "runtime": {
+          "practica troncal parte 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica troncal parte 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
